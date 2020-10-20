@@ -45,7 +45,7 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110 - 1301, USA
 #define DLT_BLUETOOTH_LE_LL         251
 // App definitions
 #define BUFF_SIZE                   65536
-#define DEBUG                       1
+#define DEBUG                       0
 #define FILE_DEBUG                  0
 
 #define ZB_MAX_PAYLOAD              127
