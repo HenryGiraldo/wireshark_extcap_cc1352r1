@@ -13,6 +13,8 @@ Modified firmware here: https://github.com/HenryGiraldo/sniffer_fw_cc1352r1
 1. Copy the pre-compiled cc1352r1.exe extcap program to the wireshark extcap directory, typically C:\Program Files\Wireshark\extcap (or run build.bat to compile it yourself).
 2. Run wireshark, select the "TI CC1352R1 802.15.4 packet sniffer" capture interface. You must known the COM PORT where the sniffer is connected.
 
+![usage](image_2020_12_09T15_38_51_268Z.png)
+
 ## TODO
 
 - Refactor code
